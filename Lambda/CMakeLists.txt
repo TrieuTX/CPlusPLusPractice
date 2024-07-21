@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(lambda)
+#add_library()
+add_executable(lambdabasic lambdabasic.cpp)
+add_executable(lambdawiththis lambdawiththis.cpp)
